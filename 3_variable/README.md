@@ -1,0 +1,1 @@
+Variable Declearation On Golang
